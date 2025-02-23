@@ -1,0 +1,11 @@
+Q1. Write a program to take a single character input and print it in uppercase.
+
+Q2. Write a program to read a float and print its integer part and fractional part separately.
+
+Q3. Write a program to check whether a number is an Armstrong number (e.g., 371 = 3^3 + 7^3 + 1^1)
+
+Q4. Write a C program that reads a sentence from the user input using scanf and then displays the sentence 
+    back to the user. Ensure that the program read the entire line of text until the user presses Enter.
+
+Q5. Write a C program that reads a series of positive integers (the user will enter -1 to stop) and calculates
+    the average of all entered integers. Ensure that -1 is not included in the calculation.

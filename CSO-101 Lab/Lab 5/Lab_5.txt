@@ -1,0 +1,25 @@
+❖ Write a C program that displays the name of the day of the week based on a number entered by the user. The
+program should:
+• Prompt the user to enter a number between 1 and 7.
+• Use a switch statement to determine which day corresponds to the number.
+• Print the name of the day (e.g., 1 = Monday, 2 = Tuesday, etc.).
+• If the user enters a number outside the range of 1-7, print an error message.
+
+❖ Write a c program to print the pattern given below:
+                            *
+                          * *
+                        * * *
+                      * * * *
+                    * * * * *
+                        
+ 
+ 
+❖ Write a C program to check whether a given number is a palindrome or not. A palindrome number is a number that
+remains the same when its digits are reversed
+Example: 121, 545, 12321
+
+❖ Write a C program to calculate the factorial of a given positive integer.
+Example:
+Input: 5
+Output: Factorial of 5 is 120
+( Explanation: 5! = 1*2*3*4*5)

@@ -1,0 +1,36 @@
+Q1: Write a program that calculates the check digit for an EAN. The user will input the first 12 digits as a
+    single number and the program should output the check digit.
+
+    European Article Numbers (EANs) use a 13-digit code, where the last digit is a check digit used to verify the
+    code's validity. To calculate the check digit:
+      - Add the 2nd, 4th, 6th, 8th, 10th, and 12th digits.
+      - Add the 1st, 3rd, 5th, 7th, 9th, and 11th digits.
+      - Multiply the sum from Step 1 by 3 and add it to the sum from Step 2.
+      - Subtract 1 from the total.
+      - Compute the remainder of the result when divided by 10.
+      - Subtract the remainder from 9 to get the check digit.
+
+    Example:
+    For the EAN 8691484260008:
+    First sum (2nd, 4th, ...): 
+    6+1+8+2+0+0=17
+    Second sum (1st, 3rd, ...): 8+9+4+4+6+0=31
+    Total: 17×3+31=82
+    Subtract 1: 82−1=81
+    Remainder when divided by 10: 81%10=1
+    Check digit: 9−1=8
+
+Q2: Write a program to solve quadratic equations using the formula
+    𝑥 = −𝑏 ± √𝑏2 − 4𝑎𝑐/2𝑎
+    Input: Values of a, b, c
+    Output: Possible values for x
+
+Q3: Compound Assignment Operators: Take two integers and demonstrate the use of compound assignment operators like
+    +=, −=, ∗= 𝑎𝑛𝑑 /= .
+
+Q4: Write a program that calculates the average marks of a student from five subjects. The marks for each subject
+    are stored as integers, but the average should be displayed as a floating-point value with two decimal places.
+
+Q5: Swapping Two Numbers Without a Temporary Variable
+    a = 5, b = 10
+    After swapping: a = 10, b = 5

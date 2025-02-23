@@ -1,0 +1,45 @@
+Q1: Write a C program that takes two matrices (A and B) as input and performs matrix multiplication to produce
+    the resulting matrix C. The program should implement the multiplication logic and print the resulting matrix.
+
+    Example:
+    
+    Enter rows and columns for matrix A: 2 3
+    Enter rows and columns for matrix B: 3 2
+    Enter elements of matrix A:
+    1 2 3
+    4 5 6
+    Enter elements of matrix B:
+    7   8
+    9  10
+    11 12
+
+    Output: The product of matrix A and B is:
+            58   64
+            139 154
+
+Q2: Write a C program that calculates the sum of elements in an array using a function.
+
+    Instructions:
+        • Create a function sumArray() that takes an array and its size as parameters and returns the sum of the
+          array elements.
+        • In the main() function, call sumArray() and display the result.
+
+    Enter the size of the array: 5
+    Enter elements of the array: 1 2 3 4 5
+    The sum of the elements in the array is: 15
+
+Q3: Demonstrate using sizeof operator w.r.t different data types to calculate its element size.
+
+    Example: for int array a, a/sizeof(a[0]) should output 4                                     
+    Similarly 8 for float type (depends on the system type)
+
+Q4: Write a program to convert a given string to an integer without using atoi() or similar functions.
+
+    Input: A string representing a number.
+    Output: The integer equivalent of the string.
+
+Q5: Write a program to find the largest and smallest elements in a 2D array and print their positions (row and
+    column).
+
+Q6: Check for Symmetry in a Matrix: Write a program to check if a given square matrix is symmetric i.e. 
+    a[i][j]=a[j][i]

@@ -1,0 +1,19 @@
+Q1: Write a program to print the largest of three numbers.
+    Example:
+    • Input: 10, 25, 30
+    • Output: The largest number is: 30
+
+Q2: Write a program to check if the current year is a leap year or not.
+    Example:
+    • Input: 2024
+    • Output: 2024 is a leap year
+
+Q3: Count the number of vowels and consonants in the given string.
+    Example:
+    • Input: "Hello World"
+    • Output: Vowels: 3, Consonants: 7
+
+Q4: Take an integer as input and convert it into hexadecimal and octal representation
+    Example:
+    • Input: 255
+    • Output: Hexadecimal representation: 0xff, Octal representation: 0o377

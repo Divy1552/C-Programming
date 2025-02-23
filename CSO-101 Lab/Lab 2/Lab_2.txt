@@ -1,0 +1,23 @@
+Q1. Write a C program that converts a temperature given in Celsius to Fahrenheit.
+
+Q2. Write a program that computes the volume of a sphere given its radius
+
+Q3. Write a program that asks the user to enter a value for x and then displays the value of the
+    following polynomial:
+    ((((3x + 2)x - 5)x * -1)x + 7)x - 6
+
+Q4. Write a program that calculates the remaining balance on a loan after the first, second, and third monthly
+    payments:
+    Input: Enter amount of loan: 2000
+           Enter interest rate: 6
+           Enter monthly payment: 300
+
+    Output: Balance remaining after first payment: $1710.00
+            Balance remaining after second payment: $1418.55
+            Balance remaining after third payment: $1125.64
+
+
+Q5. Write a program that adds two fractions, so that the user enters both fractions at the same time separated by
+    a plus sign.
+    Input: Enter two fractions separated by a plus sign (e.g., 5/6 + 4/3): 5/6 + 4/3
+    Output: The sum is 39/18

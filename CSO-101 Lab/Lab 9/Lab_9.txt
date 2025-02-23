@@ -1,0 +1,70 @@
+Q1: Write a C program that takes two matrices (A and B) as input and performs matrix addition to produce
+    the resulting matrix C. The program should implement the addition logic and print the resulting matrix.
+
+    Enter rows and columns for matrix A: 2 2
+    Enter elements of matrix A:
+    1 2
+    3 4
+
+    Enter rows and columns for matrix B: 2 2
+    Enter elements of matrix B:
+    5 6
+    7 8
+
+    Output: The sum of matrix A and B is:
+            6 8
+            10 12
+
+Q2: Write a C program that reverses the elements of an array using a function.
+
+    Instructions:
+        • Create a function reverseArray() that takes an array and its size as parameters and reverses the elements in place.
+        • Create another function printArray() that takes an array and its size as parameters and print the elements of the array.
+        • In the main() function, call reverseArray() and printArray() to display the reversed array.
+
+    Enter the size of the array: 5
+    Enter elements of the array: 1 2 3 4 5
+    Reversed array: 5 4 3 2 1
+
+Q3: Write a C program to check whether a given array is a palindrome (i.e.,it reads the same forward
+    and backward).
+
+    Example:
+    Enter the size of the array: 5
+    Enter elements of the array: 1 2 3 2 1
+    The array is a palindrome.
+
+    Enter the size of the array: 4
+    Enter elements of the array: 1 2 3 4
+    The array is not a palindrome.
+
+    Now use pointer arithmetic to iterate over an integer array and print its values.
+
+Q4: Write a program to convert an integer to a string without using itoa() or similar functions.
+
+    Input: An integer number.
+    Output: The string equivalent of the integer.
+
+    Input: -12345
+    Output: "-12345"
+
+Q5: Write a program to calculate and print the sum of each row and each column of a 2D array.
+
+    Enter rows and columns of the matrix: 3 3
+    Enter elements of the matrix:
+    1 2 3
+    4 5 6
+    7 8 9
+
+    Row-wise sum: 6 15 24
+    Column-wise sum: 12 15 18
+
+Q6: Write a C program to check if a given square matrix is an identity matrix.
+
+    Enter the size of the square matrix: 3
+    Enter elements of the matrix:
+    1 0 0
+    0 1 0
+    0 0 1
+    
+    The matrix is an identity matrix.
