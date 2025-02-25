@@ -1,0 +1,25 @@
+Q1: Write a recursive function to compute a^b (i.e., a raised to the power b).
+
+    Example:    
+    Input: a = 2, b = 5
+    Output: 32
+
+Q2: Write a recursive function to compute the sum of the first N natural numbers.
+
+    Example:
+    Input: N = 10
+    Output: 55
+
+Q3: Write a recursive function to reverse a given integer.
+
+    Example:
+    Input: 1234567
+    Output: 7654321
+
+Q4: Write a function to swap the values of two variables using pointers. The function should not print anything,
+    and the values should be printed before and after swapping in the main() function.
+
+    Example:
+    Input: a = 10, b = 20
+    Output: Before swap: a = 10, b = 20
+            After swap: a = 20, b = 10
