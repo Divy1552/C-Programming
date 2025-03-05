@@ -1,0 +1,7 @@
+Q1. Implement a function which returns a pointer to largest number in array.
+
+Q2. Rotate an array to right by k position using pointer.
+
+Q3. Find the frequency of a number in array using pointer.
+
+Q4. Implement a function to find transpose of a matrix using pointers.
