@@ -1,0 +1,15 @@
+Q1: String Reverse
+
+    Implement a program to reverse a string without using strrev().
+
+Q2: Substring Search
+
+    Implement a function to check whether one string is a substring of another without using strstr().
+
+Q3: Find First Non-Repeating Character
+
+    Write a program to find the first non-repeating character in a string.
+
+Q4: Find Largest Word in a Sentence
+
+    Given a sentence, find the longest word in it.
