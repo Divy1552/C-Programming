@@ -1,0 +1,25 @@
+Question 1: Given a string s, the score of the string is defined as the sum of the absolute difference between
+            the ASCII values of adjacent characters. Return the score of s.
+
+Example:    Input: s = "hello"
+            Output: 13
+
+Question 2: Find Maximum Absolute Difference in an Array.
+
+Statement: Given an integer array, return the maximum absolute difference between any two elements in the array.
+
+Example:    Input: arr = [1, 9, 3, -5, 7]
+            Output: 14
+
+Question 3: Implement a function mysteryFunction(int x, int y) Example(hint: Use operators):
+
+            mysteryFunction(5, 3) → 6
+            mysteryFunction(10, 4) → 14
+            mysteryFunction(7, 2) → 5
+            mysteryFunction(8, 1) → 9
+
+Question 4: You are given an integer array. Your task is to find a subarray whose sum is zero. If such a
+            subarray exists, return its length; otherwise, return 0.
+
+Example :   Input: arr = [4, 2, -3, 1, 6] 
+            Output: 3
