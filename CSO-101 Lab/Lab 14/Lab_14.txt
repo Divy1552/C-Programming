@@ -1,0 +1,8 @@
+1.  Write a function that copies one string to another without using the standard library function.
+
+2. ⁠ Implement functions to perform various operations on strings using pointers:
+
+    Concatenate two strings.
+    Find the length of a string.
+    Compare two strings.
+    Reverse a string.
