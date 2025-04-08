@@ -1,0 +1,15 @@
+Q1: Implementation of Insertion Sort
+
+Q2: Implementation of Merge Sort
+
+Q3: Define a structure called Student with the following data members  
+
+    • int Roll No           
+    • string Name              
+    • float Marks
+
+
+    Write a C program that:             
+
+    • Reads the details of n students from the user.           
+    • Displays the details of the students who scored more than 75 marks or less than 30 marks.
