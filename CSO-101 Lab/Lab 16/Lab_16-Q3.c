@@ -15,7 +15,7 @@ void inputDetails(struct Student Students[],int n) {
         printf("\nfor Student %d,\n",i+1);
 
         printf("Enter Roll Number : ");
-        scanf("%ld",&(Students[i]).Roll_Number);
+        scanf("%ld",&Students[i].Roll_Number);
 
         printf("Enter Name : ");
         scanf("\n%[^\n]%*c",Students[i].Name);
